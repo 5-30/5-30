@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @5-30
+- 👋 Hi, I’m 5-30
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning Rust
 
