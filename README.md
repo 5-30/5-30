@@ -3,14 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=5-30" alt="5-30" /></a> </p>
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me **clement.falcon@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/clement.falcon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="clement.falcon" height="30" width="40" /></a>
-<a href="https://discord.gg/m5sEPecJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="m5sEPecJ" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
